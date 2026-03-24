@@ -29,6 +29,12 @@ ARQUIVOS = [
         "descricao": "Para máquinas Windows com Java instalado",
         "tamanho_est": "23 MB"
     },
+    {
+        "nome": "Competência - 03/2026 (.zip)",
+        "arquivo": "TabelaUnificada_202603_v2603111027.zip",
+        "descricao": "Para máquinas Windows com Java instalado",
+        "tamanho_est": "4 gb"
+    },
 ]
 
 # ─── Aplicação ────────────────────────────────────────────────────────────────
