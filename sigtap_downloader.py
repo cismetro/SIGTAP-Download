@@ -9,6 +9,7 @@ import time
 FTP_HOST = "ftp2.datasus.gov.br"
 FTP_BASE = "/pub/sistemas/tup/downloads/"
 
+
 ARQUIVOS = [
     {
         "nome": "SIGTAP Setup (.jar)",
